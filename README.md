@@ -3,7 +3,7 @@
 </a>
 <br/>
 <a href="#">
-  <img width="70%" src="https://raw.githubusercontent.com/kcak11/kcak11/a767229c9a3cf20ad20dd5a59d0d23d23e8a3162/kcak11_links.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/kcak11/kcak11/a767229c9a3cf20ad20dd5a59d0d23d23e8a3162/kcak11_links.svg" />
 </a>
 
 <!--
